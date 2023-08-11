@@ -30,3 +30,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="50" hieght="50" />&nbsp;
 
 🐾Я код мастер на все лапки🐾
+
+[CV](https://tarasyonok.github.io/rsschool-cv/)
+[Library](https://rolling-scopes-school.github.io/tarasyonok-JSFEPRESCHOOL2023Q2/library/)
