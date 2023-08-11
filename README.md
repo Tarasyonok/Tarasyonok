@@ -31,5 +31,8 @@
 
 🐾Я код мастер на все лапки🐾
 
-[CV](https://tarasyonok.github.io/rsschool-cv/)
-[Library](https://rolling-scopes-school.github.io/tarasyonok-JSFEPRESCHOOL2023Q2/library/)
+Проекты
+-------
+
+* [CV](https://tarasyonok.github.io/rsschool-cv/)
+* [Library](https://rolling-scopes-school.github.io/tarasyonok-JSFEPRESCHOOL2023Q2/library/)
