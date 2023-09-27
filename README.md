@@ -1,21 +1,18 @@
-Привет, Я Кирилл
-================
+**Привет, Я Кирилл**
 
 
-### Fullstack разработчик
+*Fullstack разработчик*
 
-### мой телеграм: @tarasyonochek
+**мой телеграм: @tarasyonochek**
 
-Обо мне:
---------
+**Обо мне:**
 
 *   🎈 Мне 15 лет
 *   🏫 Я учусь в 9 классе
 *   💻 Мне нравится программировать. Я обучаюсь программированию в Лицее Академии Яндекса и Rolling Scopes School
 *   🌎 Изучаю английский язык
 
-Языки и технологии
-------------------
+**Языки и технологии**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" hieght="50" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" hieght="50" />&nbsp;
@@ -32,7 +29,6 @@
 🐾Я код мастер на все лапки🐾
 
 Проекты
--------
 
 * [CV](https://tarasyonok.github.io/rsschool-cv/)
 * [Library](https://rolling-scopes-school.github.io/tarasyonok-JSFEPRESCHOOL2023Q2/library/)
