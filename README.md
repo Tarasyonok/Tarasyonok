@@ -31,4 +31,6 @@
 Проекты
 
 * [CV](https://tarasyonok.github.io/rsschool-cv/)
-* [Library](https://rolling-scopes-school.github.io/tarasyonok-JSFEPRESCHOOL2023Q2/library/)
+* [Meme slider](https://tarasyonok.github.io/cssMemeSlider/cssMemeSlider/index.html)
+* [Image gallery](https://rolling-scopes-school.github.io/tarasyonok-JSFEPRESCHOOL2023Q2/image-gallery/)
+* [Flappy bird](https://rolling-scopes-school.github.io/tarasyonok-JSFEPRESCHOOL2023Q2/random-game/)
