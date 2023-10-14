@@ -32,5 +32,5 @@
 
 * [CV](https://tarasyonok.github.io/rsschool-cv/)
 * [Meme slider](https://tarasyonok.github.io/cssMemeSlider/cssMemeSlider/index.html)
-* [Image gallery](https://rolling-scopes-school.github.io/tarasyonok-JSFEPRESCHOOL2023Q2/image-gallery/)
+* [Image gallery](https://rolling-scopes-school.github.io/tarasyonok-JSFEPRESCHOOL2023Q2/image-galery/)
 * [Flappy bird](https://rolling-scopes-school.github.io/tarasyonok-JSFEPRESCHOOL2023Q2/random-game/)
