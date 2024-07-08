@@ -5,7 +5,7 @@
 Добро пожаловать на мою страничку в GitHub!<br>
 Я обучаюсь программированию 4 года и за это время я узнал технологии для разработки сайтов и ботов.<br>
 Во время обучения в Яндекс Лицее я научился оргинизовывать работу в команде.<br>
-Я всегда заканчиваю начатое, умею находить общий язык с людьми и постоянно изучаю что-то новое, пополняя свой стек hard скилов.<br>
+Я люблю решать сложные зачачи, умею находить общий язык с людьми и постоянно изучаю что-то новое, пополняя свой стек hard скилов.<br>
 Сейчас я ищу работу на позицию Junior или Middle разработчика.
 
 ### 🛠 Технический стек
@@ -41,33 +41,15 @@
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical) -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tarasyonok&show_icons=true&theme=radical)
 
-<!-- ### 📌 Pinned Repositories
+### 💻 Мои проекты
+- **Сайт библиотеки**:&emsp;&emsp;&emsp;&ensp;[Хостинг](https://tarasyonok.github.io/library) | [Репозиторий](https://github.com/Tarasyonok/library)
+- **Галлерея изображений**:&ensp;[Хостинг](https://tarasyonok.github.io/image-gallery) | [Репозиторий](https://github.com/Tarasyonok/image-gallery)
+- **Игра Flappy Bird**:&emsp;&emsp;&emsp;&ensp;&nbsp;[Хостинг](https://tarasyonok.github.io/flappy-bird) | [Репозиторий](https://github.com/Tarasyonok/flappy-bird)
+- **Аудиоплеер**:&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;[Хостинг](https://tarasyonok.github.io/audio-player) | [Репозиторий](https://github.com/Tarasyonok/audio-player)
+- **[Telegram бот: кто ты из мультиков](https://github.com/Tarasyonok/lyceum-project-bot)**
+- **[RPG игра на pygame](https://github.com/Tarasyonok/lyceum-project-pygame)**
+- **[Desktop приложение планировщик дел](https://github.com/Tarasyonok/lyceum-project-PyQt5)**
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo1)](https://github.com/yourusername/repo1)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo2)](https://github.com/yourusername/repo2) -->
-
-Thank you for visiting my profile. Let's innovate and build something amazing together!
-
-<!-- <p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=gargakshit"
-    alt="gargakshit"
-  />
-</p> -->
-
-<!--
-**tig-bbit/tig-bbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Спасибо, что посетил мой профиль. Подпишусь за подписку, поставь пожалуйста ⭐ [этому репозиторию](https://github.com/Tarasyonok/Tarasyonok) 😉.
