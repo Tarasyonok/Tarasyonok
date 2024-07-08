@@ -54,4 +54,9 @@
 - **[RPG игра на pygame](https://github.com/Tarasyonok/lyceum-project-pygame)**
 - **[Desktop приложение планировщик дел](https://github.com/Tarasyonok/lyceum-project-PyQt5)**
 
-Спасибо, что посетил мой профиль. Подпишусь за подписку, поставь пожалуйста ⭐ [этому репозиторию](https://github.com/Tarasyonok/Tarasyonok) 😉.
+### [📄 Моё резюме в формате pdf](https://github.com/Tarasyonok/Tarasyonok/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf)
+
+
+Спасибо, что посетил мой профиль.<br>
+Подпишусь за подписку, поставь, пожалуйста ⭐ [этому репозиторию](https://github.com/Tarasyonok/Tarasyonok) 😉.<br>
+Follow for follow, star ⭐ [this repository](https://github.com/Tarasyonok/Tarasyonok), please 😉.
