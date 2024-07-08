@@ -12,10 +12,10 @@
 
 - **Backend**: Django, Flask
 - **Frontend**: HTML, CSS, JavaScript, Jinja, Django templates
-- **ORM**: SQLAlchemy, Django ORM
-- **Боты**: Telegram, Discord, ВКонтакте, Алиса (голосовой помощник)
-- **Библиотеки**: API Яндекс Карт, BootStrap, Asyncio, Schedule
 - **Базы данных**: SQLite, MongoDB
+- **ORM**: SQLAlchemy, Django ORM
+- **Библиотеки**: API Яндекс Карт, BootStrap, Asyncio, Schedule
+- **Боты**: Telegram, Discord, ВКонтакте, Алиса (голосовой помощник)
 - **DevOps**: CI/CD
 - **Тестирование**: Unittest, Pytest
 - **Системы контроля версий**: Git, GitHub, GitLab
