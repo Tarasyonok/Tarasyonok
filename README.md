@@ -14,9 +14,10 @@
 - **Frontend**: HTML, CSS, JavaScript, Jinja, Django templates
 - **Базы данных**: SQLite, MongoDB
 - **ORM**: SQLAlchemy, Django ORM
+- **REST**: Flask RESTful, Django REST Framework
 - **Библиотеки**: API Яндекс Карт, BootStrap, Asyncio, Schedule
 - **Боты**: Telegram, Discord, ВКонтакте, Алиса (голосовой помощник)
-- **DevOps**: CI/CD
+- **DevOps**: CI/CD, black, flake8, mypy
 - **Тестирование**: Unittest, Pytest
 - **Системы контроля версий**: Git, GitHub, GitLab
 - **IDE**: PyCharm, VSCode
