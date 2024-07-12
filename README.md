@@ -12,7 +12,7 @@
 
 - **Backend**: Django, Flask
 - **Frontend**: HTML, CSS, JavaScript, Jinja, Django templates
-- **Базы данных**: SQLite, MongoDB
+- **Базы данных**: SQL, SQLite, MongoDB
 - **ORM**: SQLAlchemy, Django ORM
 - **REST**: Flask RESTful, Django REST Framework
 - **Библиотеки**: API Яндекс Карт, BootStrap, Asyncio, Schedule
