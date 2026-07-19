@@ -16,7 +16,7 @@ Backend Python Разработчик
 | Portfolio | [Клик 👤](https://bravekirty.github.io) | [Клик 🐙](https://github.com/bravekirty/bravekirty.github.io) | Frontend |
 
 <p align="center">
-  <i> Больше информации на моём сайте-портфолио https://bravekirty.github.io!</i>
+  <i> Больше информации обо мне на сайте-портфолио https://bravekirty.github.io!</i>
 </p>
 
 <!--
