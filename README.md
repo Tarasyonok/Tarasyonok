@@ -1,3 +1,25 @@
+## Привет, я Кирилл 👋 | [Личный сайт](https://bravekirty.github.io)
+
+Backend Python Разработчик
+
+**Основной стек:** `FastAPI`, `Django`, `PostgreSQL`, `Docker`  
+**Сейчас изучаю:** `Linux`, `Machine Learning`
+
+### Мои пет проекты
+
+Мои пет проекты небольшие, но создавая их я разобрался в технологиях и паттернах, которые используются в реальной работе.
+
+| Проект | Ссылка | Репозиторий | Главный фокус |
+|-------------|-------------|-------------|-------------|
+| ImageTagAnalyzer | [Клик 👀](http://imagetaganalyzer.rdeaps.com/) | [Клик 🐙](https://github.com/bravekirty/ImageTagAnalyzer) | Микросервисы, Асинхронность |
+| NightCoder | [Клик 🌙](http://nightcoder.rdeaps.com/) | [Клик 🐙](https://github.com/bravekirty/NightCoder) | SOLID, CI/CD, Тесты |
+| Portfolio | [Клик 👤](https://bravekirty.github.io) | [Клик 🐙](https://github.com/bravekirty/bravekirty.github.io) | Frontend |
+
+<p align="center">
+  <i> Больше информации на моём сайте-портфолио https://bravekirty.github.io!</i>
+</p>
+
+<!--
 # Тарасов Кирилл | Python Backend Developer
 
 *Создаю работающие приложения из идей. Полный цикл: от архитектуры до продукта, работающего на VPS*
@@ -161,19 +183,19 @@ graph TB
         ExtAPI[[Imagga API<br/>Внешний сервис AI]]
     end
     
-    UI -- "HTTP запросы" --> GW
+    UI -- "HTTP запросы" -- > GW
     
-    GW -- "POST /analyze" --> S1
-    GW -- "GET /analytics" --> S2
-    GW -- "GET /samples" --> S3
+    GW -- "POST /analyze" -- > S1
+    GW -- "GET /analytics" -- > S2
+    GW -- "GET /samples" -- > S3
     
-    S1 -- "Сохраняет результаты" --> DB
-    S1 -- "Вызывает" --> ExtAPI
+    S1 -- "Сохраняет результаты" -- > DB
+    S1 -- "Вызывает" -- > ExtAPI
     
-    S2 -- "Анализирует данные" --> DB
+    S2 -- "Анализирует данные" -- > DB
     
-    S3 -- "Кеширует демо" --> Cache
-    S3 -- "Читает данные" --> DB
+    S3 -- "Кеширует демо" -- > Cache
+    S3 -- "Читает данные" -- > DB
     
     style UI fill:#e1f5fe
     style GW fill:#f3e5f5
@@ -296,3 +318,5 @@ graph TB
 *P.S. Все мои проекты работают онлайн — можете протестировать прямо сейчас!*
 
 </div>
+
+-->
